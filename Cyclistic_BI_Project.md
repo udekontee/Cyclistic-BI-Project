@@ -34,7 +34,6 @@ Cyclistic wants to optimize its bike-share operations and grow its customer base
 * Insights into **weather impact on bike demand**.  
 * A **heatmap of congestion at stations** to optimize bike distribution.
 
----
 
 ## **📌 Project Requirements Document**
 
@@ -82,7 +81,7 @@ The project aims to enhance Cyclistic’s decision-making by providing a busines
 ### **Assumptions**
 
 * The dataset includes GPS coordinates but does not identify neighborhoods; zip code data will supplement this information.  
-* Weather impact on trip behavior assumes any precipitation affects demand, though timing may vary.
+* Weather impact on trip behavior assumes any precipitation affects demand, though the timing may vary.
 
 ### **Compliance and Privacy**
 
