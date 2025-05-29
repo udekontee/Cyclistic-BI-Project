@@ -18,12 +18,15 @@ Analyze rider trends using historical trip data to:
 - **Google Docs (.md):** Project brief and strategic documentation
 
 ## 📂 Project Files Included
-| File Name                            | Description                                                                 |
-|-------------------------------------|-----------------------------------------------------------------------------|
-| `Cyclistic Bike Sharing Trends NYC.twbx` | Tableau dashboard file showing key usage patterns                         |
-| `NYC Bike Sharing Data.pptx`         | Final project presentation for stakeholders                                 |
-| `Cyclistic_BI_Project.md`           | Written project summary and documentation                                   |
-| `NYC-Cyclistic-bi-project/`         | Folder containing project documentation and supporting files                |
+## 📂 Project Files Included
+
+| File Name | Description |
+|-----------|-------------|
+| [Cyclistic Bike Sharing Trends NYC.twbx](https://github.com/udekontee/Cyclistic-BI-Project/blob/main/Cyclistic%20Bike%20Sharing%20Trends%20NYC.twbx) | Tableau dashboard file showing key usage patterns |
+| [NYC Bike Sharing Data.pptx](https://github.com/udekontee/Cyclistic-BI-Project/blob/main/NYC%20Bike%20Sharing%20Data.pptx) | Final project presentation for stakeholders |
+| [Cyclistic_BI_Project.md](https://github.com/udekontee/Cyclistic-BI-Project/blob/main/Cyclistic_BI_Project.md) | Written project summary and documentation |
+| [NYC-Cyclistic-bi-project folder](https://github.com/udekontee/Cyclistic-BI-Project/blob/main/NYC-Cyclistic-bi-project) | Folder containing supporting documentation |
+
 
 ## 📈 Key Findings
 - **Casual riders** are more active on weekends and during warmer months.
